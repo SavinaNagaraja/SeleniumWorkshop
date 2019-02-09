@@ -1,0 +1,11 @@
+<html>
+	<head>
+		<title>LoginPage</title>
+	</head>
+	<body>
+		<input type = "email" name = "UserName">UserName</input>
+		<input type = "password" name = "Password">Password</input>
+		<button type = "submit"  name = "Login">Login</button>
+		<button type = "submit"  name = "Cancel">Cancel</button>
+	</body>
+</html>
